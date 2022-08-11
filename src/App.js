@@ -6,7 +6,7 @@ import Row from "./components/Row";
 
 function App() {
   return (
-    <div>
+    <div className="body">
       <Nav />
       <Banner />
 
