@@ -33,6 +33,7 @@ function MovieModal({
 
             <h2 className="modal__title">{title ? title : name}</h2>
             <p className="modal__overview"> 평점: {vote_average}</p>
+
             <p className="modal__overview"> {overview}</p>
           </div>
         </div>
